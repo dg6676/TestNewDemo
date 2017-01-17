@@ -2,4 +2,6 @@ new text
 modify
 friend
 
+hello
 bye
+nono
